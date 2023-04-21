@@ -1,0 +1,9 @@
+>>	The Nigerian Communications Commission © 2016										
+>>Operator Data			Latest Data: Quarter 1- 2017								
+>>The table below displays the number of subscribers per each individual telecoms operator on a quarterly basis.											
+>>											
+Operator			Mar-15	Jun-15	Sep-15	Dec-15	Mar-16	Jun-16	Sep-16	Dec-16	Mar-17
+MTN Nigeria Communications			"61,149,397"	"62,813,111"	"62,493,732"	"61,252,387"	"57,045,721"	"58,409,767"	"60,558,569"	"61,840,461"	"60,391,959"
+Globacom Limited			"29,577,125"	"31,256,677"	"31,306,472"	"32,999,384"	"34,608,793"	"36,320,572"	"36,967,712"	"37,357,843"	"37,328,827"
+Airtel Nigeria			"28,680,757"	"29,564,766"	"31,134,625"	"32,268,301"	"33,680,757"	"31,978,848"	"32,775,916"	"34,116,409"	"34,656,605"
+EMTS Limited (ETISALAT)			"22,235,557"	"22,852,232"	"23,492,214"	"22,161,290"	"21,877,542"	"22,469,896"	"22,534,800"	"20,809,889"	"19,621,806"

@@ -1,0 +1,54 @@
+J:\COM313_AppProgramming2021Q1\CSharpProjects\CrudeNccDataTransformer\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.exe
+J:\COM313_AppProgramming2021Q1\CSharpProjects\CrudeNccDataTransformer\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.deps.json
+J:\COM313_AppProgramming2021Q1\CSharpProjects\CrudeNccDataTransformer\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.runtimeconfig.json
+J:\COM313_AppProgramming2021Q1\CSharpProjects\CrudeNccDataTransformer\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.runtimeconfig.dev.json
+J:\COM313_AppProgramming2021Q1\CSharpProjects\CrudeNccDataTransformer\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.dll
+J:\COM313_AppProgramming2021Q1\CSharpProjects\CrudeNccDataTransformer\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.pdb
+J:\COM313_AppProgramming2021Q1\CSharpProjects\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.csprojAssemblyReference.cache
+J:\COM313_AppProgramming2021Q1\CSharpProjects\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.AssemblyInfoInputs.cache
+J:\COM313_AppProgramming2021Q1\CSharpProjects\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.AssemblyInfo.cs
+J:\COM313_AppProgramming2021Q1\CSharpProjects\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.csproj.CoreCompileInputs.cache
+J:\COM313_AppProgramming2021Q1\CSharpProjects\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.dll
+J:\COM313_AppProgramming2021Q1\CSharpProjects\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.pdb
+J:\COM313_AppProgramming2021Q1\CSharpProjects\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.genruntimeconfig.cache
+J:\Baze University\Work Products21-2021-Qtr1\Examination\COM 313\2021Q1\ExamStarterKit21Q1\Question2_C#\CrudeNccDataTransformer\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.exe
+J:\Baze University\Work Products21-2021-Qtr1\Examination\COM 313\2021Q1\ExamStarterKit21Q1\Question2_C#\CrudeNccDataTransformer\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.deps.json
+J:\Baze University\Work Products21-2021-Qtr1\Examination\COM 313\2021Q1\ExamStarterKit21Q1\Question2_C#\CrudeNccDataTransformer\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.runtimeconfig.json
+J:\Baze University\Work Products21-2021-Qtr1\Examination\COM 313\2021Q1\ExamStarterKit21Q1\Question2_C#\CrudeNccDataTransformer\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.runtimeconfig.dev.json
+J:\Baze University\Work Products21-2021-Qtr1\Examination\COM 313\2021Q1\ExamStarterKit21Q1\Question2_C#\CrudeNccDataTransformer\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.dll
+J:\Baze University\Work Products21-2021-Qtr1\Examination\COM 313\2021Q1\ExamStarterKit21Q1\Question2_C#\CrudeNccDataTransformer\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.pdb
+J:\Baze University\Work Products21-2021-Qtr1\Examination\COM 313\2021Q1\ExamStarterKit21Q1\Question2_C#\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.csprojAssemblyReference.cache
+J:\Baze University\Work Products21-2021-Qtr1\Examination\COM 313\2021Q1\ExamStarterKit21Q1\Question2_C#\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.AssemblyInfoInputs.cache
+J:\Baze University\Work Products21-2021-Qtr1\Examination\COM 313\2021Q1\ExamStarterKit21Q1\Question2_C#\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.AssemblyInfo.cs
+J:\Baze University\Work Products21-2021-Qtr1\Examination\COM 313\2021Q1\ExamStarterKit21Q1\Question2_C#\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.csproj.CoreCompileInputs.cache
+J:\Baze University\Work Products21-2021-Qtr1\Examination\COM 313\2021Q1\ExamStarterKit21Q1\Question2_C#\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.dll
+J:\Baze University\Work Products21-2021-Qtr1\Examination\COM 313\2021Q1\ExamStarterKit21Q1\Question2_C#\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.pdb
+J:\Baze University\Work Products21-2021-Qtr1\Examination\COM 313\2021Q1\ExamStarterKit21Q1\Question2_C#\CrudeNccDataTransformer\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.genruntimeconfig.cache
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.exe
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.deps.json
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.runtimeconfig.json
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.runtimeconfig.dev.json
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.dll
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.pdb
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.csproj.AssemblyReference.cache
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.GeneratedMSBuildEditorConfig.editorconfig
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.AssemblyInfoInputs.cache
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.AssemblyInfo.cs
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.csproj.CoreCompileInputs.cache
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.dll
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.pdb
+J:\COM313_AppProgramming2023Q1\CSharpProjects\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.dll
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.pdb
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.exe
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.deps.json
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.runtimeconfig.json
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.dll
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\bin\Debug\netcoreapp3.1\CrudeNccDataTransformer.pdb
+C:\Users\DELL\Downloads\Practical Exam Part 1 (2023-Q1) (1)\Practical Exam Part 1 (2023-Q1)\NccDataTransformerUpgrade\obj\Debug\netcoreapp3.1\CrudeNccDataTransformer.genruntimeconfig.cache
