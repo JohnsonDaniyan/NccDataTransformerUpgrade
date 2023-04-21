@@ -11,22 +11,23 @@ namespace NccDataTransformerUpgrade
         DataFileIO dataFileIOObj = new DataFileIO();
         WriteToFileSystem writeToFileSystemObj = new WriteToFileSystem();
 
-        private List<string> operatorFileList;
-        private List<string> subscriberCountFileList;
+        private List<string> operatorFileList = new List<string>();
+        private List<string> subscriberCountFileList = new List<string>();
 
         public void CreateOperatorDataForR(List<string> nccDataInString,
                        string ncc2015OperatorDataR_Input)
         {
 
             List<String> operatorDataOutput = new List<String>();
+            Console.WriteLine("NCC Data Latest : " + nccDataInString);
             foreach (String inputRecord in nccDataInString)
             {
                 //replace all "|" with "," to create CSV file
                 string ouputString = inputRecord.Replace('|', ',');
-                operatorDataOutput.Add(inputRecord.Replace('|', ','));
+                operatorDataOutput.Add(ouputString);
                 //string ouputString = inputRecord;
             }
-            writeToFileSystemObj.WriteToFile(operatorDataOutput, "ncc2015OperatorDataR_Input", false);
+            writeToFileSystemObj.WriteToFile(operatorDataOutput, ncc2015OperatorDataR_Input, false);
 
 
 
@@ -38,21 +39,20 @@ namespace NccDataTransformerUpgrade
             //skip past the header record and process the rest as
             //Operator and subscriberCount records
 
-            operatorFileList = new List<string>();
-            subscriberCountFileList = new List<string>();
-
-
-
-
             for (int loopper = 1; loopper < nccDataInString.Count; loopper++)
             {
                 String operatorRecordAndCount = nccDataInString[loopper];
                 String[] operatorAndCounts = dataCleanerObj.SplitString(operatorRecordAndCount, '|');
+
+
+                Console.WriteLine("nccDataInString[loopper] +++ >> ==" + nccDataInString[loopper]);
                 //Create the operatorFile as defined by operatorFile parameter
                 String SearchName = CreateOperatorFile(operatorAndCounts[0],
                                 operatorFile);
-                //now innerloop to write quater by quarter subcriber count
-                //for operator contained in SearchName
+
+                if (SearchName == "No Name Found") { continue; }
+                // now innerloop to write quater by quarter subcriber count
+                // for operator contained in SearchName
                 for (int innerLoop = 1; innerLoop < operatorAndCounts.Length;
                                     innerLoop++)
                 {
@@ -63,6 +63,9 @@ namespace NccDataTransformerUpgrade
                                    SearchName);
                 }
             }
+
+
+            Console.WriteLine("reportQuaters ++++++++++++++++++++++++++++++ " + reportQuaters[0]);
 
             int operatorFileRecords = writeToFileSystemObj.WriteToFile(operatorFileList, operatorFile, false);
             if (operatorFileRecords != operatorFileList.Count)
@@ -130,8 +133,10 @@ namespace NccDataTransformerUpgrade
             }
             else
             {
+                return "No Name Found";
                 String message = "Operator Name match is missing";
                 throw new Exception(message);
+
             }
             return searchName;
 
@@ -148,8 +153,7 @@ namespace NccDataTransformerUpgrade
             //file. Open with Append = false
             try
             {
-                StreamWriter localFileWriter = new
-                                StreamWriter(reportQuaterFileName, false);
+                StreamWriter localFileWriter = new StreamWriter(reportQuaterFileName, false);
                 int loopCounter = 0;
                 foreach (String quarterName in quaters)
                 {

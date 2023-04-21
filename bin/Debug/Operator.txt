@@ -1,0 +1,4 @@
+MTN,MTN Nigeria Communications
+GLO,Globacom Limited
+AIRTEL,Airtel Nigeria
+ETISALAT,EMTS Limited (ETISALAT)

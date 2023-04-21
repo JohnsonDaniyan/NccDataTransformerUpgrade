@@ -36,9 +36,9 @@ namespace NccDataTransformerUpgrade
             //*** Leave as is (End) ***//
             //1. Use the readFileIntoList() method to read file           
             List<String> NccDataInString = DataWranglerObj.readFileIntoList(rawNccInputDataFile);
+            Console.WriteLine("NccDataInString = ++++ = " + NccDataInString[2]);
             //2. header record is in NccDataInString[0]
-            Console.WriteLine("NccDataInSting [0] " + NccDataInString[0]);
-            String headerRecord = NccDataInString[0];
+            String headerRecord = NccDataInString[4];
             if (headerRecord.Length == 0 || headerRecord == string.Empty)
             {
                 throw new Exception("No header Record");
@@ -50,6 +50,8 @@ namespace NccDataTransformerUpgrade
                             operatorFile, subscriberCountFile);
 
             DataWranglerObj.CreateOperatorDataForR(NccDataInString, Ncc2017OperatorDataR_Input);
+
+
             //
             //*** Leave as is (Start) ***//
             timerControl = DateTime.Now + " <Finish> " + "eu.kvac E012257";
